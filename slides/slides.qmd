@@ -1,0 +1,23 @@
+---
+title: "Julia"
+subtitle: "Playing around"
+output-file: index
+bibliography: references.bib
+format:
+  revealjs:
+    embed-resources: true
+    slide-number: true
+    chalkboard: false
+    preview-links: auto
+    history: false
+    logo: imgs/iccs-logo.png 
+    theme: [dark, custom.scss]
+    render-on-save: true
+authors:
+  - name: Ade Bankole
+    affiliations: University of Cambridge
+revealjs-plugins:
+  - attribution
+from: markdown+emoji
+---
+
